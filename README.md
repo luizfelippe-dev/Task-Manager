@@ -1,2 +1,2 @@
 # Task-Manager
-Task Manager developed with HTML, CSS, and JavaScript.
+This is a simple and responsive Task Manager developed with HTML, CSS, and JavaScript. It allows users to add, edit, complete, and delete tasks, as well as set a due date for each task. The program includes a dark mode, filters to view "All," "Active," or "Completed" tasks, and saves tasks in the browser for data persistence. The interface is designed to adapt to different screen sizes, including desktops and mobile devices, providing a smooth and functional user experience on any device.
